@@ -12,7 +12,7 @@ input {
 button {
   border-radius: 16px;
   border: none;
-  padding: 4px 16px;
+  padding: 4px px;
 }
 
 button:hover {
@@ -21,7 +21,7 @@ button:hover {
   cursor: pointer;
 }
 
-p {
+div {
   margin-right: 8px;
 }
 
@@ -44,7 +44,7 @@ p {
 }
 
 .complete-area {
-  background-color: #ffffe0;
+  background-color: #ffefe0;
   width: 400px;
   height: 200px;
   padding: 8px;
@@ -59,7 +59,7 @@ p {
   color: #666;
 }
 
-.list-row {
+.listRow {
   display: flex;
   align-items: center;
   padding-bottom: 4px;
